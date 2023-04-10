@@ -1,4 +1,4 @@
-# Logica-de-programacion-Practicando-con-juegos-y-animaciones
+# Logic-of-programming-Practicing-with-games-and-animations
 Take this course for the Oracle ONE Education program - Programming Logic: Practicing with Games and Animations
 
 ****Where I learned:****
