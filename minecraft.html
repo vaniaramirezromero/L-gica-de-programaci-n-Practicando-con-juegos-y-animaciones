@@ -1,0 +1,26 @@
+<canvas width="300" height="300"></canvas>
+
+<script>
+    //Creeper
+    var pantalla = document.querySelector("canvas");
+    var pincel = pantalla.getContext("2d");
+    
+    pincel.fillStyle = "green" //propiedad
+    pincel.fillRect(0,0,350,300); //funcion (coord x, coor y, ancho, alto)
+
+    pincel.fillStyle = "black" //ojo dere
+    pincel.fillRect(25,60,90,90);    
+
+    pincel.fillStyle = "black" //ojo izq
+    pincel.fillRect(185,60,90,90);    
+
+    pincel.fillStyle = "black" //nariz
+    pincel.fillRect(115,150,70,100);    
+
+    pincel.fillStyle = "black" //colmillo der
+    pincel.fillRect(75,200,40,100);    
+
+    pincel.fillStyle = "black" //colmillo izq
+    pincel.fillRect(185,200,40,100);    
+
+</script>;
